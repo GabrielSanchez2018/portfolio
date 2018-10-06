@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio
 
-My name is Gabriel Sanchez, I was born in Guanajuato Mexico, in a small town called Piedra Parada. I grew up there until i i turned 17 years old, and then my parentes brought me to Omaha, Nebraska. Everything changed for me, school, friends, and the most dificult the language, English. I went to Bryan High School, i grouduated in 2012. Then, my next step was College. I was not ready for a 4 year University, because of the language. So, i went to Metropolitan Community College as a part time stuedent, and at the same time i was working at Greater Omaha Co,. 
+My name is Gabriel Sanchez, I have an Assiate's Degree in Applied Science, Information Techonology, Cisco Network Technician. Currently, I am attending Bellevue University in Omaha Nebraska for Web Development program. 
 
 
 ### Markdown
