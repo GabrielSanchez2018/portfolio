@@ -3,22 +3,7 @@
 My name is Gabriel Sanchez, I have an Assiate's Degree in Applied Science, Information Techonology, Cisco Network Technician. Currently, I am attending Bellevue University in Omaha Nebraska for Web Development program. 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
